@@ -1,0 +1,743 @@
+#home {
+    background: rgb(219, 226, 221);
+}
+
+.navbar {
+    /* background: white; */
+    /* box-shadow: 2px solid black; */
+    /* height: 10vh */
+    margin-left: -100px;
+    background: rgb(72, 83, 66);
+}
+
+.nav-item {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.nav-link {
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+#showcase1 {
+    background-image: url(./img/poveda02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* margin-top: -700px; */
+    height: 115vh;
+    color: white;
+}
+
+#showcase1 h1 {
+    margin-top: 260px;
+    margin-left: -330px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+#showcase1 h2 {
+    margin-top: 20px;
+    margin-left: -70px;
+    font-size: 120px;
+}
+
+#showcase1 p {
+    margin-top: 20px;
+    margin-left: -40px;
+    font-size: 20px;
+    width: 650px;
+    font-weight: 500;
+}
+
+#showcase1 button {
+    margin-top: 20px;
+    margin-left: -430px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+#showcase1 button:hover {
+    background: white;
+    color: black;
+}
+
+.lic {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 500px;
+    color: rgb(72, 83, 66);
+}
+
+.big1 {
+    width: 30%;
+    margin-right: 25px;
+}
+
+
+/* .ttt {
+    background-color: rgb(199, 206, 201);
+    width: 100%;
+} */
+
+.big1 h2 {
+    margin-top: 30px;
+    color: rgb(72, 83, 66);
+    margin-left: 75px;
+}
+
+.big1 button {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(72, 83, 66);
+    border: 3px solid rgb(72, 83, 66);
+    margin-left: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+}
+
+.big1 button:hover {
+    background: rgba(165, 164, 164, 0.397);
+}
+
+.big2 button:hover {
+    background: rgba(165, 164, 164, 0.397);
+}
+
+.big3 button:hover {
+    background: rgba(165, 164, 164, 0.397);
+}
+
+.big2 {
+    width: 30%;
+    margin-right: 25px;
+}
+
+.big2 h2 {
+    margin-top: 30px;
+    color: rgb(72, 83, 66);
+    margin-left: 95px;
+}
+
+.big2 button {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(72, 83, 66);
+    border: 3px solid rgb(72, 83, 66);
+    margin-left: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+}
+
+.big3 {
+    width: 30%;
+    margin-right: 25px;
+}
+
+.big3 h2 {
+    margin-top: 30px;
+    color: rgb(72, 83, 66);
+    margin-left: 75px;
+}
+
+.big3 button {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(72, 83, 66);
+    border: 3px solid rgb(72, 83, 66);
+    margin-left: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    margin-bottom: 200px;
+}
+
+.roww button {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(72, 83, 66);
+    border: 3px solid rgb(72, 83, 66);
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    margin-bottom: 200px;
+}
+
+.roww {
+    margin-left: 700px;
+    margin-top: -500px;
+    font-weight: 500;
+    color: rgb(72, 83, 66);
+}
+
+.rowww {
+    margin-left: 50px;
+    margin-top: -64px;
+    font-weight: 500;
+    width: 400px;
+    padding-top: 210px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.rowwww {
+    margin-left: 50px;
+    margin-top: -64px;
+    font-weight: 500;
+    width: 400px;
+    padding-top: 270px;
+    color: rgb(72, 83, 66);
+}
+
+.rowww h1 {
+    width: 200px;
+}
+
+.rowww p {
+    width: 500px;
+}
+
+.rowww button {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.rowww button:hover {
+    color: rgb(72, 83, 66);
+    background: white;
+}
+
+.img-sector1 {
+    width: 45%;
+    margin-left: 675px;
+    margin-top: -589px;
+    margin-bottom: 0px;
+}
+
+.img-sector {
+    width: 45%;
+}
+
+.img-sector2 {
+    width: 45%;
+    margin-left: 65px;
+    margin-bottom: 10px;
+}
+
+.img-sector10 {
+    width: 45%;
+    margin-left: 65px;
+    margin-bottom: 10px;
+}
+
+.container1 {
+    background: rgb(72, 83, 66);
+}
+
+.container4 {
+    background: rgb(72, 83, 66);
+}
+
+.py-3 {
+    /* padding-left: 250px; */
+    color: white;
+    background: rgb(47, 58, 41);
+    margin-top: -50px;
+}
+
+.py-3 p {
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 280px;
+}
+
+.py-3 h1 {
+    font-size: 60px;
+}
+
+#offer {
+    background: rgb(47, 58, 41);
+}
+
+.pages1 h1 {
+    margin-left: 350px;
+    margin-bottom: 50px;
+    font-size: 70px;
+    color: rgb(72, 83, 66);
+}
+
+.ro {
+    margin-left: 150px;
+}
+
+.pages1 button {
+    margin-left: 580px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(72, 83, 66);
+    border: 2px solid rgb(72, 83, 66);
+    border-radius: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.pages1 button:hover {
+    background: rgb(72, 83, 66);
+}
+
+#page2-header {
+    width: 100%;
+    height: 70vh;
+    color: white;
+    margin-bottom: 0px;
+    background: rgb(72, 83, 66);
+}
+
+#page3-header {
+    width: 100%;
+    height: 70vh;
+    color: white;
+    margin-bottom: 0px;
+    background: rgb(92, 103, 86);
+}
+
+#page4-header {
+    width: 100%;
+    height: 70vh;
+    color: rgb(92, 103, 86);
+    margin-bottom: 0px;
+}
+
+#page5-header {
+    width: 100%;
+    height: 70vh;
+    color: white;
+    margin-bottom: 0px;
+    background: rgb(92, 103, 86);
+}
+
+#page6-header {
+    width: 100%;
+    height: 70vh;
+    color: rgb(92, 103, 86);
+    margin-bottom: 100px;
+}
+
+#page2-header h2 {
+    margin-top: 150px;
+    font-size: 40px;
+    margin-left: -50px;
+}
+
+#page2-header p {
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: -50px;
+    width: 400px;
+}
+
+#page3-header h2 {
+    margin-top: 150px;
+    font-size: 40px;
+    margin-left: -50px;
+}
+
+#page3-header p {
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: -50px;
+    width: 500px;
+}
+
+#page4-header h2 {
+    margin-top: 150px;
+    font-size: 40px;
+    margin-left: -50px;
+}
+
+#page4-header p {
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: -50px;
+    width: 500px;
+}
+
+#page5-header h2 {
+    margin-top: 150px;
+    font-size: 40px;
+    margin-left: -50px;
+}
+
+#page5-header p {
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: -50px;
+    width: 500px;
+}
+
+#page6-header h2 {
+    margin-top: 150px;
+    font-size: 40px;
+    margin-left: -50px;
+}
+
+#page6-header p {
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: -50px;
+    width: 500px;
+}
+
+.bdd {
+    margin-left: 550px;
+    margin-top: -120px;
+    font-size: 30px;
+}
+
+.bddd {
+    margin-left: 750px;
+    margin-top: -220px;
+    font-size: 30px;
+}
+
+#page3-header h6 {
+    font-size: 30px;
+}
+
+#page3-header h6 span {
+    font-size: 100px;
+}
+
+#page4-header h6 {
+    font-size: 30px;
+}
+
+#page4-header h6 span {
+    font-size: 100px;
+}
+
+#page5-header h6 {
+    font-size: 30px;
+}
+
+#page5-header h6 span {
+    font-size: 100px;
+}
+
+#page6-header h6 {
+    font-size: 30px;
+}
+
+#page6-header h6 span {
+    font-size: 100px;
+}
+
+#page2-header button {
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 570px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 2px solid white;
+    border-radius: 50px;
+    color: white;
+}
+
+#page3-header button {
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: -40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 2px solid white;
+    border-radius: 50px;
+    color: white;
+}
+
+#page4-header button {
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: -40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 2px solid rgb(92, 103, 86);
+    border-radius: 50px;
+    color: rgb(92, 103, 86);
+}
+
+#page5-header button {
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: -40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 2px solid white;
+    border-radius: 50px;
+    color: white;
+}
+
+#page6-header button {
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: -40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 2px solid rgb(92, 103, 86);
+    border-radius: 50px;
+    color: rgb(92, 103, 86);
+}
+
+#showcase2 {
+    background-image: url(./img/poveda\ prizing1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* margin-top: -700px; */
+    height: 115vh;
+    color: white;
+}
+
+#showcase2 h1 {
+    margin-top: 260px;
+    margin-left: -330px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+#showcase2 h2 {
+    margin-top: 20px;
+    margin-left: -70px;
+    font-size: 120px;
+}
+
+.py-2 {
+    /* padding-left: 250px; */
+    color: rgb(47, 58, 41);
+    margin-top: -50px;
+}
+
+.py-2 p {
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 280px;
+}
+
+.py-2 h1 {
+    font-size: 60px;
+}
+
+.sect1-text {
+    margin-top: -100px;
+    margin-left: 50px;
+    color: white;
+    padding-top: 140px;
+}
+
+.sect2-text {
+    margin-top: -300px;
+    margin-left: 650px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.sect2-text h1 {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.sect2-text input {
+    background: rgba(207, 207, 207, 0.397);
+}
+
+.sect2-text textarea {
+    background: rgba(207, 207, 207, 0.397);
+}
+
+.sect2-text label {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.sect1-text p {
+    margin-top: 30px;
+    font-size: 20px;
+    width: 550px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.sect1-text h6 {
+    margin-top: 30px;
+    font-size: 20px;
+    width: 300px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.container3 {
+    background: rgb(92, 103, 86);
+}
+
+#showcase3 {
+    background-image: url(./img/poveda\ action1\ \(1\).png);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    width: 100%;
+    /* margin-top: -700px; */
+    height: 115vh;
+    color: white;
+}
+
+#showcase3 h1 {
+    margin-top: 260px;
+    margin-left: -330px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+#showcase3 h2 {
+    margin-top: 20px;
+    margin-left: -70px;
+    font-size: 120px;
+}
+
+#showcase4 {
+    background-image: url(./img/next\ 3.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    /* margin-top: -700px; */
+    height: 115vh;
+    color: white;
+}
+
+#showcase4 h1 {
+    margin-top: 260px;
+    margin-left: -330px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+#showcase4 h2 {
+    margin-top: 20px;
+    margin-left: -70px;
+    font-size: 120px;
+}
+
+.rcol button {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(72, 83, 66);
+    border: 3px solid rgb(72, 83, 66);
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    margin-bottom: 200px;
+}
+
+.rcoll button {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(72, 83, 66);
+    border: 3px solid rgb(72, 83, 66);
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    margin-bottom: 200px;
+}
+
+.rcol {
+    margin-left: 700px;
+    margin-top: -500px;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.rcoll {
+    margin-left: 700px;
+    margin-top: -500px;
+    font-weight: 500;
+    color: rgb(72, 83, 66);
+    margin-bottom: 60px;
+}
+
+#showcase5 {
+    background-image: url(./img/poveda\ action1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    /* margin-top: -700px; */
+    height: 115vh;
+    color: white;
+}
+
+#showcase5 h1 {
+    margin-top: 260px;
+    margin-left: -330px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+#showcase5 h2 {
+    margin-top: 20px;
+    margin-left: -200px;
+    font-size: 120px;
+}
+
+.man {
+    padding-left: 550px;
+    margin-top: -60px;
+    color: rgb(72, 83, 66);
+}
+
+.way {
+    padding-left: 850px;
+    margin-top: -120px;
+    color: rgb(72, 83, 66);
+}
+
+.bb {
+    color: rgb(72, 83, 66);
+    font-size: 20px;
+}
+
+.bbb {
+    color: rgb(72, 83, 66);
+}
+
+.bok {
+    margin-top: 100px;
+    color: rgb(72, 83, 66);
+}
+
+.py-5 {
+    height: 25rem;
+    color: rgb(72, 83, 66);
+}
+
+.py-1 {
+    height: 25rem;
+    color: rgb(72, 83, 66);
+    background: rgb(199, 206, 201);
+}
+
+.lin {
+    color: rgb(72, 83, 66);
+}
